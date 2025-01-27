@@ -1,2 +1,2 @@
 # stanleyedward.github.io
-deploy
+
